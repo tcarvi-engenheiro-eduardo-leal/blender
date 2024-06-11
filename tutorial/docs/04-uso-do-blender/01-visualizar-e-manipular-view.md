@@ -1,4 +1,4 @@
-# Visualização Inicial
+# Visualizar e Manipular View
 
 ## Workspace storyboard: 
 - Renomeie o workspace *Layout* para ***storyboard***.

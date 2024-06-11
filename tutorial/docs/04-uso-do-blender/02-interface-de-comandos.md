@@ -2,7 +2,6 @@
 
 ## Janela de Interatividade
 - `SHIFT` `A` -> Adicionar objetos
-- `SHIFT` `SPACEBAR` -> Atalhos do Toolbox
 
 ## Histórico
 - `CTRL` `Z` -> Desfazer comando
