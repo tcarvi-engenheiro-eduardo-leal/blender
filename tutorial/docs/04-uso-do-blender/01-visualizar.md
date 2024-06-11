@@ -9,7 +9,7 @@
 - Interatividades:
     - `Menu Windows`/`Show Status Bar` (*check*/*uncheck*)
     - `T`  -> TOOLBAR (*show*/*hide*)
-    - `N`  -> PROPERTIES BAR (*show*/*hide*)
+    - `N`  -> n-PROPERTIES BAR (*show*/*hide*)
 
 ## Organizar 3D Viewport
 - `SELECT ALL e DELETE` `A` `X` `D` -> Delete Tudo
