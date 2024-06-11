@@ -56,6 +56,3 @@
 - `SELECT OBJECT` `H` -> Ocultar objeto selecionado.
 - `SELECT OBJECTS` `SHIFT` `H` -> Ocultar todos os objetos que não estão selecionados
 - `ALT` `H` -> Desativar o Hide (ocultação), selecionando tudo mostrado agora.
-
-## Revisão em Vídeo
-- https://youtu.be/1jHUY3qoBu8?t=57
