@@ -1,6 +1,6 @@
 # Source Code
 
-- Istall xcode tools
+- Install xcode tools
 ```terminal
 xcode-select --install
 ```  
