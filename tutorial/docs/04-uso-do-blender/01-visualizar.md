@@ -1,0 +1,60 @@
+# Visualização Inicial
+
+## Workspace storyboard: 
+- Renomeie o workspace *Layout* para ***storyboard***.
+- Janela esquerda: `3D Viewport`
+- Janela superior direita: `Outliner`
+- Janela inferior direita: `Properties Windows`
+- Janela inferior: `Timeline`
+    - Para apagar demais janelas, selecione canto da janela e arraste sobre aquela que se quer apagar.
+- Interatividades:
+    - `Menu Windows`/`Show Status Bar` (*check*/*uncheck*)
+    - `T`  -> TOOLBAR (*show*/*hide*)
+    - `N`  -> PROPERTIES BAR (*show*/*hide*)
+
+## Organizar 3D Viewport
+- `SELECT ALL e DELETE` `A` `X` `D` -> Delete Tudo
+
+## Toogle de visualização em 4 Views
+- `CTRL` `ALT` `Q` -> Toggle Quad View
+
+## Escolher View:
+- `7` -> TOP
+- `Command` `7` -> BOTTOM
+- `1` -> FRONT
+- `Command` `1` -> BACK
+- `5` -> Toogle Orthographic and Perspective user views
+
+## Mostrar View da Câmera:
+- `0` -> Toogle VIEW CAMERA 
+
+## Rotacionar View:
+- `4` -> Rotate LEFT
+- `6` -> Rotate RIGHT
+- `8` -> Rotate To Front and Below
+- `2` -> Rotate To Back and Up
+
+## Escolher Visualização dos Objetos
+- `Z` `2` -> Material Preview
+- `Z` `4` -> Wireframe
+- `Z` `6` -> Solid
+- `Z` `8` -> Rendered
+- `Select Object`/`Menu Object`/`Shade Smooth` -> Shade Smooth
+- `Select Object`/`Menu Object`/`Shade Flat` -> Shade Flat
+
+## Movimentar View:
+
+ - `SHFT` `Trackpad-DRAG-2-fingers` -> PAN the view
+    - `SHFT` `MMB-CLICK-DRAG`
+- `Trackpad-DRAG-2-fingers` -> ROTATE the view
+    - `MMB-CLICK-DRAG`-> ROTATE the view
+- `Trackpad-DRAG-2-fingers-diagonal` -> ZOOM the view
+    - `MMB-SCROLL`-> ZOOM the view
+
+## Ocultação (hide)
+- `SELECT OBJECT` `H` -> Ocultar objeto selecionado.
+- `SELECT OBJECTS` `SHIFT` `H` -> Ocultar todos os objetos selecionados
+- `ALT` `H` -> Desativar o Hide (ocultação), selecionando tudo mostrado agora.
+
+## Revisão em Vídeo
+- https://youtu.be/1jHUY3qoBu8?t=57
