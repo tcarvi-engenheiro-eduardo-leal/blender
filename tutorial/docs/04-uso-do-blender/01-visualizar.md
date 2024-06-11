@@ -12,7 +12,7 @@
     - `N`  -> n-PROPERTIES BAR (*show*/*hide*)
 
 ## Organizar 3D Viewport
-- `SELECT ALL e DELETE` `A` `X` `D` -> Delete Tudo
+- `A` `X` `D` -> select ALL e DELETE a seleção
 
 ## Toogle de visualização em 4 Views
 - `CTRL` `ALT` `Q` -> Toggle Quad View
