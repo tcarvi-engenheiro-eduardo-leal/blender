@@ -6,7 +6,6 @@
 - Janela superior direita: `Outliner`
 - Janela inferior direita: `Properties Windows`
 - Janela inferior: `Timeline`
-    - Para apagar demais janelas, selecione canto da janela e arraste sobre aquela que se quer apagar.
 - Interatividades:
     - `Menu Windows`/`Show Status Bar` (*check*/*uncheck*)
     - `T`  -> TOOLBAR (*show*/*hide*)
