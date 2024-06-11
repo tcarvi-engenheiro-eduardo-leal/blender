@@ -19,9 +19,11 @@
 
 ## Escolher View:
 - `7` -> TOP
-- `Command` `7` -> BOTTOM
+    - `Command` `7` -> BOTTOM
+    - `Ctrl` `7` -> BOTTOM
 - `1` -> FRONT
-- `Command` `1` -> BACK
+    - `Command` `1` -> BACK
+    - `Ctrl` `1` -> BACK
 - `5` -> Toogle Orthographic and Perspective user views
 
 ## Mostrar View da Câmera:
@@ -52,7 +54,7 @@
 
 ## Ocultação (hide)
 - `SELECT OBJECT` `H` -> Ocultar objeto selecionado.
-- `SELECT OBJECTS` `SHIFT` `H` -> Ocultar todos os objetos selecionados
+- `SELECT OBJECTS` `SHIFT` `H` -> Ocultar todos os objetos que não estão selecionados
 - `ALT` `H` -> Desativar o Hide (ocultação), selecionando tudo mostrado agora.
 
 ## Revisão em Vídeo
