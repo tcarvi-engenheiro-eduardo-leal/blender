@@ -17,7 +17,7 @@ sidebar_label: Selecionar
 - `A`-> Selecionar todos as entidades selecionáveis.
 - `ALT` `A` -> Deselecionar todos as entidades selecionadas.
 - `LMB-CLICK-DRAG` -> Selecionar com área retangular.
-- `CTRL` `RMB-DRAG` -> Selecionar, com laço, entidades selecionáveis1
+- `CTRL` `RMB-DRAG` -> Adicionar seleção, com laço.
 - `SHIFT` `CTRL` `RMB-DRAG` -> Retirar da Seleção, com laço, entidades selecionadas.
 - `CTRL` `I` -> Inverter seleção
 
@@ -27,12 +27,9 @@ sidebar_label: Selecionar
 ## Selecionar todo um loop
 - No caso de Vertex, a orientação do loop é seguindo pela multiplicação da distância ao vertex de menor afastamento.
 - No caso de Faces, a orientação do loop é seguindo pela multiplicação dos lados de menor comprimento.
-- `TAB Edit Mode` `1` `ALT` `LMB-CLICK em VERTEX`-> Selecionar loop de VERTEX
-- `TAB Edit Mode` `2` `ALT` `LMB-CLICK em EDGE`-> Selecionar loop de EDGES
-- `TAB Edit Mode` `3` `ALT` `LMB-CLICK em FACE`-> Selecionar loop de FACES
+- `TAB Edit Mode` `Vertex selection mode` `ALT` `LMB-CLICK em VERTEX`-> Selecionar loop de VERTEX
+- `TAB Edit Mode` `Edge selection mode` `ALT` `LMB-CLICK em EDGE`-> Selecionar loop de EDGES
+- `TAB Edit Mode` `Face selection mode` `ALT` `LMB-CLICK em FACE`-> Selecionar loop de FACES
 
 ## Selecionar edges paralelos
-- `TAB Edit Mode` `2` `CTRL` `ALT` `LMB-CLICK em EDGE`-> Selecionar ring EDGES paralelos
-
-## Organizar 3D Viewport
-- `A` `X` `D` -> select ALL e DELETE a seleção
+- `TAB Edit Mode` `Edge selection mode` `CTRL` `ALT` `LMB-CLICK em EDGE`-> Selecionar ring EDGES paralelos
