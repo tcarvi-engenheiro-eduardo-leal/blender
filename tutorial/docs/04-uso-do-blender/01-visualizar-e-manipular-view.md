@@ -1,19 +1,5 @@
 # Visualizar e Manipular View
 
-## Workspace storyboard: 
-- Renomeie o workspace *Layout* para ***storyboard***.
-- Janela esquerda: `3D Viewport`
-- Janela superior direita: `Outliner`
-- Janela inferior direita: `Properties Windows`
-- Janela inferior: `Timeline`
-- Interatividades:
-    - `Menu Windows`/`Show Status Bar` (*check*/*uncheck*)
-    - `T`  -> TOOLBAR (*show*/*hide*)
-    - `N`  -> n-PROPERTIES BAR (*show*/*hide*)
-
-## Organizar 3D Viewport
-- `A` `X` `D` -> select ALL e DELETE a seleção
-
 ## Toogle de visualização em 4 Views
 - `CTRL` `ALT` `Q` -> Toggle Quad View
 
@@ -44,7 +30,6 @@
 - `Select Object`/`Menu Object`/`Shade Flat` -> Shade Flat
 
 ## Movimentar View:
-
  - `SHFT` `Trackpad-DRAG-2-fingers` -> PAN the view
     - `SHFT` `MMB-CLICK-DRAG`
 - `Trackpad-DRAG-2-fingers` -> ROTATE the view

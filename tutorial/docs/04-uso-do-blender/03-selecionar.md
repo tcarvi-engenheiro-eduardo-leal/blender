@@ -6,9 +6,10 @@ sidebar_label: Selecionar
 
 ## Tipo de seleção
 - `TAB`-> "*Object Mode*" or "*Edit Mode*"
-- `TAB Edit Mode` `1` -> Vertex selection mode
-- `TAB Edit Mode` `2` -> Edge selection mode
-- `TAB Edit Mode` `3` -> Face selection mode
+- `Edit Mode`
+    - Vertex selection mode
+    - Edge selection mode
+    - Face selection mode
 
 ## Selecionar
 - `LMB-CLICK SELEÇÃO`-> Selecionar algo
@@ -32,3 +33,6 @@ sidebar_label: Selecionar
 
 ## Selecionar edges paralelos
 - `TAB Edit Mode` `2` `CTRL` `ALT` `LMB-CLICK em EDGE`-> Selecionar ring EDGES paralelos
+
+## Organizar 3D Viewport
+- `A` `X` `D` -> select ALL e DELETE a seleção
